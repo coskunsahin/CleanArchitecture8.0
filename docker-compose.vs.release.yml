@@ -1,0 +1,12 @@
+#See https://aka.ms/overrideVSDockerComposeConfiguration to understand how Visual Studio uses this override file.
+
+version: '3.4'
+
+#services:
+  #api:
+    #labels:
+      #com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
+      #com.microsoft.visualstudio.debuggee.arguments: "\"C:\\app\\Api.dll\""
+      #com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
+      #com.microsoft.visualstudio.debuggee.killprogram: "$kill_command$"
+      #com.microsoft.visual-studio.project-name: "Api"
